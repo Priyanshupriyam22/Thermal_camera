@@ -53,7 +53,7 @@ This project integrates the Waveshare Thermal Camera HAT with the Raspberry Pi t
 2. **Software Installation**:
    - Clone this repository:
      ```bash
-     git clone <repository_url>
+     git clone https://github.com/Priyanshupriyam22/Thermal_camera.git
      cd Thermal_Camera
      ```
 
